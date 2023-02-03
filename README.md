@@ -9,3 +9,8 @@
 
 ### Rotate Array
 ### Set Matrix Zeroes
+
+## Day 3
+
+###  Find Numbers with Even Number of Digits 
+###  Richest Customer Wealth
