@@ -19,3 +19,8 @@
 
 ### Find Smallest Letter Greater Than Targe
 ### Find First and Last Position of Element in Sorted Array
+
+## Day 5
+
+### Find Peak Element
+### Search in Rotated Sorted Array
