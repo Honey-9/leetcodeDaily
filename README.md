@@ -24,3 +24,10 @@
 
 ### Find Peak Element
 ### Search in Rotated Sorted Array
+
+
+## Day 6
+
+
+## Day 7
+### Missing Number
