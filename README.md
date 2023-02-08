@@ -31,3 +31,7 @@
 
 ## Day 7
 ### Missing Number
+
+
+## Day 9
+### Find All Numbers Disappeared in an Array
