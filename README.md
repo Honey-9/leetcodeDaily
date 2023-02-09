@@ -35,3 +35,6 @@
 
 ## Day 9
 ### Find All Numbers Disappeared in an Array
+
+## Day 10
+### Find the Duplicate Number
