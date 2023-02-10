@@ -38,3 +38,6 @@
 
 ## Day 10
 ### Find the Duplicate Number
+
+## Day 11
+### Maximum Product of Three Numbers
