@@ -41,3 +41,6 @@
 
 ## Day 11
 ### Maximum Product of Three Numbers
+
+## Day 12
+### Shortest Path with Alternating Colors
